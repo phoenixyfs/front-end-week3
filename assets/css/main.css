@@ -1,5 +1,5 @@
 body {
-  background-color: #EEF2C9;
+  background-color: #EDF2C5;
   font-family: 'Noto Sans', sans-serif;
   margin: 0; }
 
@@ -9,14 +9,14 @@ p {
   line-height: 1.5em; }
 
 h1 {
-  color: #7B8957;
+  color: #778A50;
   font-size: 44px;
   margin: 0; }
 
 .titleBox {
-  background-color: #7B8957;
+  background-color: #778A50;
   padding: 10px 30px;
-  color: #EEF2C9;
+  color: #EDF2C5;
   font-weight: 600;
   margin-bottom: 16px;
   border-radius: 3px;
@@ -56,14 +56,14 @@ header {
     margin-left: 12px; }
 
 .icons-border {
-  border-left: solid 1px #7B8957;
+  border-left: solid 1px #778A50;
   margin-left: 12px; }
 
 .header-button {
-  background-color: #EEF2C9;
-  color: #7B8957;
+  background-color: #EDF2C5;
+  color: #778A50;
   padding: 3px 8px;
-  border: solid 1px #7B8957;
+  border: solid 1px #778A50;
   border-radius: 3px;
   font-size: 14px;
   font-weight: 700;
@@ -108,7 +108,7 @@ nav {
   width: 165px; }
 
 .contact-content {
-  background-color: #F8FBDD;
+  background-color: #F7FBDA;
   padding: 16px;
   font-weight: 400;
   font-size: 14px;
@@ -119,9 +119,9 @@ nav {
   margin: 9px 0; }
 
 footer {
-  background-color: #7B8957;
+  background-color: #778A50;
   padding: 21px;
   text-align: center;
-  color: #EEF2C9;
+  color: #EDF2C5;
   margin-top: 117px;
   font-size: 12px; }
