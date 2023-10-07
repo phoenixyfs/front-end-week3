@@ -1,0 +1,131 @@
+body {
+  background-color: #EEF2C9;
+  font-family: 'Noto Sans', sans-serif;
+  margin: 0; }
+
+p {
+  font-size: 12px;
+  margin: 0;
+  line-height: 1.5em; }
+
+h1 {
+  color: #7B8957;
+  font-size: 44px;
+  margin: 0; }
+
+.titleBox {
+  background-color: #7B8957;
+  padding: 10px 30px;
+  color: #EEF2C9;
+  font-weight: 600;
+  margin-bottom: 16px;
+  border-radius: 3px;
+  font-size: 16px;
+  padding-right: 60px; }
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer; }
+
+.max-width {
+  width: 100%; }
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 36px 0 10px 0; }
+
+.header-title {
+  display: inline-block; }
+
+.icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  .icons img {
+    width: 24px;
+    margin-left: 12px; }
+
+.icons-border {
+  border-left: solid 1px #7B8957;
+  margin-left: 12px; }
+
+.header-button {
+  background-color: #EEF2C9;
+  color: #7B8957;
+  padding: 3px 8px;
+  border: solid 1px #7B8957;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 12px;
+  font-family: 'Noto Sans', sans-serif; }
+
+nav {
+  max-width: 1120px;
+  margin: 0 auto; }
+
+.nav-list {
+  margin-top: 0; }
+
+.nav-list-item {
+  display: inline-block;
+  padding-right: 60px; }
+
+.content-container {
+  max-width: 1120px;
+  margin: 0 auto; }
+
+.banner {
+  padding-bottom: 32px; }
+
+.section2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between; }
+
+.col-container {
+  width: 528px; }
+
+.vegetables-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between; }
+
+.vegetables-img {
+  width: 165px; }
+
+.contact-content {
+  background-color: #F8FBDD;
+  padding: 16px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #7D7D7D; }
+
+.line {
+  border-top: solid 1px #7D7D7D;
+  margin: 9px 0; }
+
+footer {
+  background-color: #7B8957;
+  padding: 21px;
+  text-align: center;
+  color: #EEF2C9;
+  margin-top: 117px;
+  font-size: 12px; }
